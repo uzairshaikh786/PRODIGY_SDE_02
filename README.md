@@ -2,13 +2,18 @@
 Program that generates a random number and challenges the user to guess it. (web application)
 
 #Output
-![Screenshot 2023-09-08 174931](https://github.com/uzairshaikh786/PRODIGY_SDE_02/assets/142176437/cf1e4ab6-9d3f-4976-ac57-fbb189fc9115)
 
-![Screenshot 2023-09-08 175003](https://github.com/uzairshaikh786/PRODIGY_SDE_02/assets/142176437/2fa8016b-8c85-4469-bd21-0e8c86c96a26)
+![Screenshot 2023-09-08 175917](https://github.com/uzairshaikh786/PRODIGY_SDE_02/assets/142176437/1084a3b5-5382-4605-87f3-8b1fd07ccf3c)
 
-![Screenshot 2023-09-08 175022](https://github.com/uzairshaikh786/PRODIGY_SDE_02/assets/142176437/f8ad60d4-d082-4b6e-94c0-1cf022de2365)
 
-![Screenshot 2023-09-08 175042](https://github.com/uzairshaikh786/PRODIGY_SDE_02/assets/142176437/679af58f-8a52-4073-ba59-d2d5eb165fea)
+![Screenshot 2023-09-08 175934](https://github.com/uzairshaikh786/PRODIGY_SDE_02/assets/142176437/62381839-82b2-49e3-8689-1661720fa2c1)
+
+
+![Screenshot 2023-09-08 175950](https://github.com/uzairshaikh786/PRODIGY_SDE_02/assets/142176437/ed96cfad-ae50-4eed-9989-ce3ca098bfb6)
+
+
+![Screenshot 2023-09-08 180010](https://github.com/uzairshaikh786/PRODIGY_SDE_02/assets/142176437/f9f61251-c808-4155-836b-fc1172a42245)
+
 
 #Video
 
